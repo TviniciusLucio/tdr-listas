@@ -1,0 +1,12 @@
+# Arquivos auxiliares gerados pelo LaTeX / latexmk
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+
+# Arquivos de sessao e historico do R
+.Rhistory
+.RData
