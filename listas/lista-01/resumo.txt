@@ -1,0 +1,11 @@
+Coluna: Temp
+Observações: 153
+Valores NA: 0
+
+Media por mes:
+Mes | Dias Medidos | Media
+  5 |           31 | 65,55
+  6 |           30 | 79,10
+  7 |           31 | 83,90
+  8 |           31 | 83,97
+  9 |           30 | 76,90
